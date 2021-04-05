@@ -1,13 +1,12 @@
-### Hi there 👋, Malindu Amesh
-#### Web Developer and Software Developer
-![Web Developer and Software Developer](https://pbs.twimg.com/profile_banners/1316037030741188609/1617579641/1080x360)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Malindu from Srilanka, and I do content on web Developing and software Developing. I really learning languages and frameworks like React and Spring Boot.You can check out my twitter at https://www.linkedin.com/feed/ .
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-Skills: REACT / JS / Java
-
-- 🔭 I’m currently working on this page. 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalinduAmesh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
