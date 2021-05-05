@@ -38,21 +38,9 @@ I'm Malindu Amesh a Full Stack Web Developer and Android Developer.I Spend most 
 <br />
 <br />
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MalinduAmesh.MalinduAmesh)
-
-
-
 
 #### Github Stats
-
-[![Malindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalinduAmesh)](https://github.com/MalinduAmesh/github-readme-stats)
+[![Malindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalinduAmesh&hide=contribs,prs&theme=tokyonight)](https://github.com/MalinduAmesh/github-readme-stats)
 
 </details>
 
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
