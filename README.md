@@ -4,9 +4,7 @@ I'm Malindu Amesh a Full Stack Web Developer and Android Developer.I Spend most 
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Malindu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Malindu51891108)]
-(https://twitter.com/Malindu51891108) 
-[![Linkedin Badge](https://img.shields.io/badge/-Malindu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]
+[![Twitter Badge](https://img.shields.io/badge/-@Malindu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Malindu51891108)(https://twitter.com/Malindu51891108)[![Linkedin Badge](https://img.shields.io/badge/-Malindu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]
 (https://www.linkedin.com/in/malindu-amesh-b39b591a4/) 
 [![Mail Badge](https://img.shields.io/badge/-@Malindu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]
 (https://www.instagram.com/malindu.__/) 
